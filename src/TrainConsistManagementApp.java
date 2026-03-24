@@ -8,6 +8,3 @@ public class TrainConsistManagementApp {
         System.out.println("Initial bogie count: " + consist.size());
     }
 }
-git add .
-git commit -m "UC1: Initialize Train and Display Consist "
-git push origin feature/UC1
